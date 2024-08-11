@@ -1,4 +1,5 @@
 <h2><a href="https://www.geeksforgeeks.org/problems/children-sum-parent/1">Children Sum in a Binary Tree</a></h2><h3>Difficulty Level : Difficulty: Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 18px;">Given a binary tree having <strong>n</strong> nodes. Check whether all of its nodes have the value equal to the sum of their child nodes.</span><span style="font-size: 18px;">&nbsp;R</span><span style="font-size: 18px;">eturn 1 if all the nodes in the tree satisfy the given properties, else it return 0.</span></p>
+       AMIT RIFRESH
 <p><span style="font-size: 18px;">For every node, data value must be equal to the sum of data values in left and right children. Consider data value as 0 for NULL child.&nbsp; Also, leaves are considered to follow the property.</span></p>
 <p><span style="font-size: 18px;"><strong>Example 1:</strong></span></p>
 <pre><span style="font-size: 18px;"><strong>Input:<br></strong>Binary tree
